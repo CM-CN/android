@@ -28,6 +28,7 @@
   </project>
   <project path="android" remote="sdhz151" revision="cm-14.1" name="sdhz151/android" />
   <project path="packages/apps/CMFileManager" remote="sdhz151" revision="cm-14.1" name="sdhz151/android_packages_apps_CMFileManager" />
+  <project path="packages/apps/Eleven" remote="sdhz151" revision="cm-14.1" name="sdhz151/android_packages_apps_Eleven" />
   <project path="packages/apps/CMParts" remote="sdhz151" revision="cm-14.1" name="sdhz151/android_packages_apps_CMParts" />
   <project path="packages/apps/Settings" remote="sdhz151" revision="cm-14.1" name="sdhz151/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="packages/apps/Dialer" remote="sdhz151" revision="cm-14.1" name="sdhz151/android_packages_apps_Dialer" groups="pdk-fs" />
